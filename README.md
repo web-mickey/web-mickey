@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ptakuuu)
 
-### Hi there 👋
-
 Tech stack:
 - javascript (React and React-native)
 - typescript
