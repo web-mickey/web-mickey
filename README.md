@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ptakuuu)
+![](https://komarev.com/ghpvc/?username=web-mickey)
 
 Tech stack:
 - javascript (React and React-native)
