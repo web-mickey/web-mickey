@@ -10,9 +10,3 @@ Tech stack:
 - solidity
 - automation tools
 - discord bots
-
-#DeFi
-#NFT
-#Trading
-#Binance
-#Bots
