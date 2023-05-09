@@ -10,3 +10,5 @@ Tech stack:
 - solidity
 - automation tools
 - discord bots
+- AWS
+- docker
