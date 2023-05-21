@@ -4,6 +4,8 @@
 
 I'm a seasoned Front-end Developer with almost a decade of experience in building rich web applications. I'm passionate about JavaScript, especially frameworks like React and React Native. I love creating performant and user-friendly interfaces that solve real-world problems.
 
+❗️ Most of my recent professional projects are under non-disclosure agreements or housed in private repositories, limiting what I can publicly share. However, I can provide some specific sections of the code I've authored.
+
 ## 🔭 My Expertise
 
 Over the years, I've honed a diverse set of skills including:
