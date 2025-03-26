@@ -15,8 +15,13 @@ Currently, I’m focused on blockchain development using Rust.
 Over the past 7 months, I’ve been working on trading bots,
 indexers, and data analysis.
 
-[X]([https://x.com/SVMickey_)
-[Telegram]([https://t.me/SVMickey))
-[email](mailto:mickey.web3@gmail.com)
+Contact me:
+
+[X](https://x.com/SVMickey_)
+
+[Telegram](https://t.me/SVMickey)
+
+[Email](mailto:mickey.web3@gmail.com)
+
 Discord - svmickey
 
