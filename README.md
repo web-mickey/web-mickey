@@ -21,7 +21,7 @@ indexers, and data analysis.
 
 [Telegram](https://t.me/SVMickey)
 
-[Email](mailto:mickey.web3@gmail.com)
+Email: [mickey.web3@gmail.com](mailto:mickey.web3@gmail.com)
 
 Discord - svmickey
 
