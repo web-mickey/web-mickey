@@ -2,17 +2,11 @@
 
 Hey, I'm Mickey
 
-I’ve been working in IT for over 10 years and hold a
-bachelor’s degree in information technology.
+I've been in the IT industry for over a decade and hold a bachelor's degree in Information Technology. Over the years, I’ve participated in numerous hackathons—taking first place at every in-person event I've attended.
 
-I’ve participated in many hackathons and won all the in-person ones.
+I'm an active member of the Solana Superteam Poland and frequently speak at Solana meetups and events across the country. I'm also a participant in the Solana Turbin3 Q2 2025 Builders Program..
 
-I’m also a member of Solana Superteam Poland and regularly
-give presentations at Solana events across the country.
-
-Currently, I’m focused on blockchain development using Rust.
-Over the past 7 months, I’ve been working on trading bots,
-indexers, and data analysis.
+Right now, my main focus is blockchain development using Rust. For the past 7 months, I’ve been building trading bots, on-chain indexers, and working on blockchain data analysis.
 
 
 ### Contact:
